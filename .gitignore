@@ -1,2 +1,24 @@
-gibo 1.0.1 by Simon Whitaker <simon@goosoftware.co.uk>
-https://github.com/simonwhitaker/gitignore-boilerplates
+### /Users/Chiichan/.gitignore-boilerplates/Global/IntelliJ.gitignore
+
+*.iml
+*.ipr
+*.iws
+.idea/
+
+
+### /Users/Chiichan/.gitignore-boilerplates/Global/OSX.gitignore
+
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+
+
+# Thumbnails
+._*
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+
+
